@@ -187,6 +187,15 @@
 </ul>
 <h3 id="commit-to-gh-pages">Commit to gh-pages</h3>
 <ul>
+<li><p>Make sure git knows about your subtree (the subfolder with your site).</p>
+<pre><code class="lang-bat">git add -f _site &amp;&amp; git commit -m &quot;commit&quot;
+</code></pre>
+<div class="NOTE">
+<h5>Note</h5>
+<p>This will cimmit all changes in <code>_site</code>, no need to worry abount commit message, unless you want to track. If so I suggest specifying date as commit message.</p>
+<p><code>-f</code> is only required if you added web folder to <code>.gitinore</code></p>
+</div>
+</li>
 <li><p>push subtree to the gh-pages branch on GitHub.</p>
 <pre><code class="lang-bat">git subtree push --prefix _site origin gh-pages
 </code></pre>
