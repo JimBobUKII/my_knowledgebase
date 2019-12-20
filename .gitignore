@@ -3,4 +3,7 @@ obj/
 /obj/
 obj\
 obj/**
-_site/**
+/obj/**
+/obj/**/
+obj/**/
+obj/*/
