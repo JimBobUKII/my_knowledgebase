@@ -44,15 +44,15 @@
         ],
         "exclude": [
           "obj/**",
-          "_site/**"
+          "aasite/**"
         ]
       }
     ],
-    "dest": "_site",
+    "dest": "aasite",
     "globalMetadataFiles": [],
     "fileMetadataFiles": [],
     "template": [
-      "default"//,
+      "default" //,
       //"templates/darkfx"
     ],
     "postProcessors": [],
