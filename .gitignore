@@ -1,4 +1,4 @@
-_site
+aasite
 obj/
 /obj/
 obj\
@@ -7,14 +7,3 @@ obj/**
 /obj/**/
 obj/**/
 obj/*/
-
-
-
-_site/
-/_site/
-_site\
-_site/**
-/_site/**
-/_site/**/
-_site/**/
-_site/*/
