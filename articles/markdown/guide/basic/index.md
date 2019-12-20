@@ -24,7 +24,7 @@ For the sake of this example, let’s pretend the subfolder containing your site
   * Initialise git
 
 	```bash
-    $ git init
+    git init
     ```
 
   * Add project folder (excluding `_site`) to version control
@@ -36,7 +36,7 @@ For the sake of this example, let’s pretend the subfolder containing your site
   * Add a first commit to version control/git
 
 	```bash
-    $ git commit -m "first commit"
+    git commit -m "first commit"
     ```
 
     > [!NOTE]
@@ -45,7 +45,7 @@ For the sake of this example, let’s pretend the subfolder containing your site
   * Prepare local project for upload to git
 
     ```bat
-    $ git remote add origin https://github.com/JimBobUKII/my_knowledgebase.git
+    git remote add origin https://github.com/JimBobUKII/my_knowledgebase.git
     ```
 
     > [!NOTE]
@@ -54,7 +54,7 @@ For the sake of this example, let’s pretend the subfolder containing your site
   * Push your project up to git in `master` branch
 
     ```bat
-    $ git push -u origin master
+    git push -u origin master
     ```
 
   * Check your git repository, confirm the upload has completed
@@ -64,7 +64,7 @@ For the sake of this example, let’s pretend the subfolder containing your site
   * Make sure git knows about your subtree (the subfolder with your site).
 
     ```bat
-    $ git add -f _site && git commit -m "Initial _site subtree commit"
+    git add -f _site && git commit -m "Initial _site subtree commit"
     ```
 
     > [!NOTE]
@@ -73,7 +73,7 @@ For the sake of this example, let’s pretend the subfolder containing your site
   * push subtree to the gh-pages branch on GitHub.
 
     ```bat
-    $ git subtree push --prefix _site origin gh-pages
+    git subtree push --prefix _site origin gh-pages
     ```
 
   * On GitHub, refresh you'r repository and check `gh-pages` branch has been created
@@ -94,19 +94,19 @@ For the sake of this example, let’s pretend the subfolder containing your site
   * within Git Bash, initialise git
 
     ```bat
-    $ git init
+    git init
     ```
 
   * Add any additional pages to version control
 
     ```bat
-    $ git add .
+    git add .
     ```
 
   * Add a first commit to version control/git
 
     ```bat
-    $ git commit -m "first commit"
+    git commit -m "first commit"
     ```
 
     > [!NOTE]
@@ -115,7 +115,7 @@ For the sake of this example, let’s pretend the subfolder containing your site
   * Push your project up to git in `master` branch
 
     ```bat
-    $ git push -u origin master
+    git push -u origin master
     ```
 
   * Check your git repository, confirm the upload has completed
@@ -124,7 +124,7 @@ For the sake of this example, let’s pretend the subfolder containing your site
   * push subtree to the gh-pages branch on GitHub.
 
     ```bat
-    $ git subtree push --prefix _site origin gh-pages
+    git subtree push --prefix _site origin gh-pages
     ```
 
     > [!NOTE]
