@@ -9,19 +9,7 @@
       "output": {
         ".html": {
           "relative_path": "api/index.html",
-          "hash": "Qnr6fTyWUfWTG2J8DVnvLQ=="
-        }
-      },
-      "is_incremental": true,
-      "version": ""
-    },
-    {
-      "type": "Toc",
-      "source_relative_path": "api/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/toc.html",
-          "hash": "H5frWk4fYGIWHpFNp3BdfA=="
+          "hash": "I/e0m9Jjbk2XNg9JuXkLAQ=="
         }
       },
       "is_incremental": false,
@@ -33,10 +21,10 @@
       "output": {
         ".html": {
           "relative_path": "articles/exchange2016/index.html",
-          "hash": "nxyn/YFgnOJRE/sQu0LipQ=="
+          "hash": "GYOEyZc6LMK/mjybAm7H6g=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -45,10 +33,10 @@
       "output": {
         ".html": {
           "relative_path": "articles/exchange2016/windows2012/index.html",
-          "hash": "hkGkGxLnO9t9jpnK/G71vw=="
+          "hash": "5C4UxPm0BxppB8KPcK9SRQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -57,10 +45,10 @@
       "output": {
         ".html": {
           "relative_path": "articles/exchange2016/windows2016/index.html",
-          "hash": "bG+K6sRdiHpqwXC5/iFNQQ=="
+          "hash": "OFFT/8k0AspP9m+6kYdlzA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -69,10 +57,10 @@
       "output": {
         ".html": {
           "relative_path": "articles/exchange2019/index.html",
-          "hash": "SA1inHjLKWJpva2AINz6DQ=="
+          "hash": "Yt2s1kUX4jkkyNGJ+6/pnQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -81,10 +69,10 @@
       "output": {
         ".html": {
           "relative_path": "articles/exchange2019/windows2012/index.html",
-          "hash": "cabd1dW21OZWLTevkFKbVA=="
+          "hash": "a78Clzu/TcBYmr5QtZt2VQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -93,10 +81,10 @@
       "output": {
         ".html": {
           "relative_path": "articles/exchange2019/windows2016/index.html",
-          "hash": "D7SIiSh5Y40/UbD77mNMjg=="
+          "hash": "nknDcAvDDCk1kO7coUeIEg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -105,10 +93,10 @@
       "output": {
         ".html": {
           "relative_path": "articles/git/folder1/index.html",
-          "hash": "mI/qs1Mok89hk5BDGEjVJQ=="
+          "hash": "yh8M4CcXkfZrCRc5UCc0Qg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -117,10 +105,10 @@
       "output": {
         ".html": {
           "relative_path": "articles/git/folder2/index.html",
-          "hash": "Nw0SJYiTchovtCsGTQhxIA=="
+          "hash": "gLZNn6/r2+YRDpPtZP4FNQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -129,10 +117,10 @@
       "output": {
         ".html": {
           "relative_path": "articles/git/index.html",
-          "hash": "5ewHcZR+QeVpiL3eMdaMXA=="
+          "hash": "PVvWxyPB60ghtWvhU26JIA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -141,7 +129,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/index.html",
-          "hash": "DzyV0yT1mIjvS7HaGfdkRw=="
+          "hash": "C5B2gYQYzlKIFR89aca8Mg=="
         }
       },
       "is_incremental": false,
@@ -153,10 +141,10 @@
       "output": {
         ".html": {
           "relative_path": "articles/markdown/docfx/formatting/index.html",
-          "hash": "mE+4afdToPj/+XOe0zziyA=="
+          "hash": "n/mD7Q6j8AHCRHafgCejIA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -165,10 +153,10 @@
       "output": {
         ".html": {
           "relative_path": "articles/markdown/docfx/index.html",
-          "hash": "E0NPKk9+xySF5sAN2FQErQ=="
+          "hash": "krm5tToM3aQZsi6GUOTUhw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -177,10 +165,10 @@
       "output": {
         ".html": {
           "relative_path": "articles/markdown/docfx/specifics/index.html",
-          "hash": "yYZ3NddR/HuVwyYeahWd8Q=="
+          "hash": "QoVXcgEBdFBRL+BYIjUOWg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -189,7 +177,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/markdown/guide/basic/index.html",
-          "hash": "3VOenRNaTnVD5r2Sa9qQrg=="
+          "hash": "4UIcUOuPPeH7gaM2UXL/pg=="
         }
       },
       "is_incremental": false,
@@ -201,10 +189,10 @@
       "output": {
         ".html": {
           "relative_path": "articles/markdown/guide/cheatsheet/index.html",
-          "hash": "Sa/jB2h6ZCXNmaw+Q5zB0A=="
+          "hash": "gSu88uBRlHaXsDsPQIvujg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -216,7 +204,7 @@
           "hash": "3IaaSCvty1WMsliPdzMQoQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -225,10 +213,10 @@
       "output": {
         ".html": {
           "relative_path": "articles/markdown/guide/index.html",
-          "hash": "sv55IcB8Cd6Pd8l7OGf8QQ=="
+          "hash": "iNZZc/KOGdWTDcNy+661bg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -249,10 +237,10 @@
       "output": {
         ".html": {
           "relative_path": "articles/powershell/folder1/index.html",
-          "hash": "WLp/qf6R7Wr/RRYhjkpjTg=="
+          "hash": "4bfQ7b2WJd8Ng/YcN5exWw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -261,10 +249,10 @@
       "output": {
         ".html": {
           "relative_path": "articles/powershell/folder2/index.html",
-          "hash": "umBj+f4fCHohcYKKHk4DIw=="
+          "hash": "FR4i3tZmaeAB+/0nTcpqVw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -273,10 +261,10 @@
       "output": {
         ".html": {
           "relative_path": "articles/powershell/index.html",
-          "hash": "XMwuLK1ISsebULKqzUbesw=="
+          "hash": "frjmTiyQIgiQT+IPUY2tPw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -300,10 +288,10 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "/UwCv6ydclJ0MB2lAqOR2A=="
+          "hash": "bS5YpdfApGUflCMzFq5qEQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -312,7 +300,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "ZNUMbtWcijrTACqu+pYT1Q=="
+          "hash": "K/+R9dgHrThUgOpuu2PBSw=="
         }
       },
       "is_incremental": false,
@@ -322,10 +310,12 @@
   "incremental_info": [
     {
       "status": {
-        "can_incremental": true,
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
         "incrementalPhase": "build",
         "total_file_count": 0,
-        "skipped_file_count": 0
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
       },
       "processors": {
         "TocDocumentProcessor": {
@@ -336,17 +326,17 @@
           "skipped_file_count": 0
         },
         "ConceptualDocumentProcessor": {
-          "can_incremental": true,
+          "can_incremental": false,
           "incrementalPhase": "build",
           "total_file_count": 23,
-          "skipped_file_count": 21
+          "skipped_file_count": 0
         }
       }
     },
     {
       "status": {
-        "can_incremental": true,
-        "details": "Can support incremental post processing.",
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: last post processor info is null.",
         "incrementalPhase": "postProcessing",
         "total_file_count": 0,
         "skipped_file_count": 0

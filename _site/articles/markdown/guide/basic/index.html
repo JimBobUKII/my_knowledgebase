@@ -94,7 +94,7 @@
 <li><p>Add any additional folders within your project to <code>.hitignore</code> you do not want uploading to git branch</p>
 </li>
 <li><p>Initialise git</p>
-<pre><code class="lang-bash">$ git init
+<pre><code class="lang-bash">git init
 </code></pre>
 </li>
 <li><p>Add project folder (excluding <code>_site</code>) to version control</p>
@@ -102,7 +102,7 @@
 </code></pre>
 </li>
 <li><p>Add a first commit to version control/git</p>
-<pre><code class="lang-bash">$ git commit -m &quot;first commit&quot;
+<pre><code class="lang-bash">git commit -m &quot;first commit&quot;
 </code></pre>
 <div class="NOTE">
 <h5>Note</h5>
@@ -110,7 +110,7 @@
 </div>
 </li>
 <li><p>Prepare local project for upload to git</p>
-<pre><code class="lang-bat">$ git remote add origin https://github.com/JimBobUKII/my_knowledgebase.git
+<pre><code class="lang-bat">git remote add origin https://github.com/JimBobUKII/my_knowledgebase.git
 </code></pre>
 <div class="NOTE">
 <h5>Note</h5>
@@ -118,7 +118,7 @@
 </div>
 </li>
 <li><p>Push your project up to git in <code>master</code> branch</p>
-<pre><code class="lang-bat">$ git push -u origin master
+<pre><code class="lang-bat">git push -u origin master
 </code></pre>
 </li>
 <li><p>Check your git repository, confirm the upload has completed</p>
@@ -129,7 +129,7 @@
 <h2 id="setting-up-subfolder-fir-github-pages">Setting up subfolder fir GitHub Pages</h2>
 <ul>
 <li><p>Make sure git knows about your subtree (the subfolder with your site).</p>
-<pre><code class="lang-bat">$ git add -f _site &amp;&amp; git commit -m &quot;Initial _site subtree commit&quot;
+<pre><code class="lang-bat">git add -f _site &amp;&amp; git commit -m &quot;Initial _site subtree commit&quot;
 </code></pre>
 <div class="NOTE">
 <h5>Note</h5>
@@ -137,7 +137,7 @@
 </div>
 </li>
 <li><p>push subtree to the gh-pages branch on GitHub.</p>
-<pre><code class="lang-bat">$ git subtree push --prefix _site origin gh-pages
+<pre><code class="lang-bat">git subtree push --prefix _site origin gh-pages
 </code></pre>
 </li>
 <li><p>On GitHub, refresh you'r repository and check <code>gh-pages</code> branch has been created</p>
@@ -163,15 +163,15 @@
 <h3 id="commit-to-master">Commit to master</h3>
 <ul>
 <li><p>within Git Bash, initialise git</p>
-<pre><code class="lang-bat">$ git init
+<pre><code class="lang-bat">git init
 </code></pre>
 </li>
 <li><p>Add any additional pages to version control</p>
-<pre><code class="lang-bat">$ git add .
+<pre><code class="lang-bat">git add .
 </code></pre>
 </li>
 <li><p>Add a first commit to version control/git</p>
-<pre><code class="lang-bat">$ git commit -m &quot;first commit&quot;
+<pre><code class="lang-bat">git commit -m &quot;first commit&quot;
 </code></pre>
 <div class="NOTE">
 <h5>Note</h5>
@@ -179,7 +179,7 @@
 </div>
 </li>
 <li><p>Push your project up to git in <code>master</code> branch</p>
-<pre><code class="lang-bat">$ git push -u origin master
+<pre><code class="lang-bat">git push -u origin master
 </code></pre>
 </li>
 <li><p>Check your git repository, confirm the upload has completed</p>
@@ -188,7 +188,7 @@
 <h3 id="commit-to-gh-pages">Commit to gh-pages</h3>
 <ul>
 <li><p>push subtree to the gh-pages branch on GitHub.</p>
-<pre><code class="lang-bat">$ git subtree push --prefix _site origin gh-pages
+<pre><code class="lang-bat">git subtree push --prefix _site origin gh-pages
 </code></pre>
 <div class="NOTE">
 <h5>Note</h5>
