@@ -2,3 +2,5 @@ _site
 obj/
 /obj/
 obj\
+obj/**
+_site/**
