@@ -1,0 +1,66 @@
+- name: Exchange Install Guides
+  items:
+    - name: Exchange 2016
+      items:
+      - name: Install Exchange 2016 on Windows 2016
+        href: exchange2016/windows2016/index.md
+      - name: Install Exchange 2016 on Windows 2012
+        href: exchange2016/windows2012/index.md
+    - name: Exchange 2019
+      items:
+      - name: Install Exchange 2019 on Windows 2016
+        href: exchange2019/windows2016/index.md
+      - name: Install Exchange 2019 on Windows 2012
+        href: exchange2019/windows2012/index.md
+
+- name: PowerShell
+  items:
+    - name: Something about PowerShell
+      href: powershell/folder1/index.md
+    - name: Something else about PowerShell
+      href: powershell/folder2/index.md
+
+- name: MarkDown
+  items:
+    - name: Markdown Guide
+      items:
+        - name: Markdown Basic Syntax
+          href: markdown/guide/basic/index.md
+        - name: Markdown Extended Syntax
+          href: markdown/guide/extended/index.md
+        - name: Markdown Cheat Sheet
+          href: markdown/guide/cheatsheet/index.md
+    - name: DocFX Guide
+      items:
+        - name: Markdown Specifics
+          href: markdown/docfx/specifics/index.md
+        - name: Formatting code
+          href: markdown/docfx/formatting/index.md
+
+- name: Git
+  items:
+    - name: Something about Git
+      href: git/folder1/index.md
+    - name: Something else about Git
+      href: git/folder2/index.md
+    - name: Split master and Git Pages
+      href: git/folder3/index.md
+
+
+
+- name: -- Test --
+
+- name: Install
+  items:
+    - name: Installing various versions of PowerShell
+      href: install/installing-powershell.md
+    - name: PowerShell Core
+      items:
+        - name: Installing PowerShell Core on Windows
+          href: install/installing-powershell-core-on-windows.md
+        - name: Installing PowerShell Core on Linux
+          href: install/installing-powershell-core-on-linux.md
+        - name: Installing PowerShell Core on macOS
+          href: install/installing-powershell-core-on-macos.md
+        - name: Installing PowerShell Core on ARM
+          href: install/powershell-core-on-arm.md
