@@ -18,9 +18,9 @@ For the sake of this example, let’s pretend the subfolder containing your site
     ```
 
     > [!NOTE]
-    > this will stop the upload of the `web` directory to `master` branch (no point in having html pages in master)
+    > this will stop the upload of the `_site` (web) directory to `master` branch (no point in having html pages in master)
 
-  * Add any additional folders within your project to `.hitignore` you do not want uploading to git branch
+  * Add any additional folders within your project to `.gitignore` you do not want uploading to git branch
   * Initialise git
 
 	```bash
@@ -68,7 +68,7 @@ For the sake of this example, let’s pretend the subfolder containing your site
     ```
 
     > [!NOTE]
-    > `-f` is only required if you added web folder to `.gitinore`
+    > `-f` is only required if you added web folder to `.gitignore`
 
   * push subtree to the gh-pages branch on GitHub.
 
@@ -121,6 +121,17 @@ For the sake of this example, let’s pretend the subfolder containing your site
   * Check your git repository, confirm the upload has completed
 
 ### Commit to gh-pages
+  * Make sure git knows about your subtree (the subfolder with your site).
+
+    ```bat
+    git add -f _site && git commit -m "commit"
+    ```
+
+    > [!NOTE]
+    > This will cimmit all changes in `_site`, no need to worry abount commit message, unless you want to track. If so I suggest specifying date as commit message.
+    > 
+    > `-f` is only required if you added web folder to `.gitignore`
+
   * push subtree to the gh-pages branch on GitHub.
 
     ```bat
