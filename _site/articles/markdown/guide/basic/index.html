@@ -88,10 +88,10 @@
 </code></pre>
 <div class="NOTE">
 <h5>Note</h5>
-<p>this will stop the upload of the <code>web</code> directory to <code>master</code> branch (no point in having html pages in master)</p>
+<p>this will stop the upload of the <code>_site</code> (web) directory to <code>master</code> branch (no point in having html pages in master)</p>
 </div>
 </li>
-<li><p>Add any additional folders within your project to <code>.hitignore</code> you do not want uploading to git branch</p>
+<li><p>Add any additional folders within your project to <code>.gitignore</code> you do not want uploading to git branch</p>
 </li>
 <li><p>Initialise git</p>
 <pre><code class="lang-bash">git init
@@ -133,7 +133,7 @@
 </code></pre>
 <div class="NOTE">
 <h5>Note</h5>
-<p><code>-f</code> is only required if you added web folder to <code>.gitinore</code></p>
+<p><code>-f</code> is only required if you added web folder to <code>.gitignore</code></p>
 </div>
 </li>
 <li><p>push subtree to the gh-pages branch on GitHub.</p>
@@ -193,7 +193,7 @@
 <div class="NOTE">
 <h5>Note</h5>
 <p>This will cimmit all changes in <code>_site</code>, no need to worry abount commit message, unless you want to track. If so I suggest specifying date as commit message.</p>
-<p><code>-f</code> is only required if you added web folder to <code>.gitinore</code></p>
+<p><code>-f</code> is only required if you added web folder to <code>.gitignore</code></p>
 </div>
 </li>
 <li><p>push subtree to the gh-pages branch on GitHub.</p>
